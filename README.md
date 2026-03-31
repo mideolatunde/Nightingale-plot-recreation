@@ -125,9 +125,9 @@ py -m jupyter lab
 - **LinkedIn**: https://linkedin.com/in/ayomide-olatunde-2859141a8
 - **GitHub**: https://github.com/mideolatunde
 
-- **Institution**: Poshem Technologies Institute
-- **Course**: Python Data Challenge
-- **Project Supervisor**: Simon E. Akhamie, CEO
+- **Institution**: She Code Africa
+- **Course**: She Code Africa Academy Program (Data Science Track)
+- **Facilitator**: Ifeoma Egbogah
 
 
 
