@@ -36,7 +36,7 @@ This project visualizes the causes of death among soldiers during the Crimean Wa
 #### **Programming Language** : `Python 3.10+` 
 
 #### Libraries
-- `pandas` – Data manipulation & cleaning
+- `pandas & janitor` – Data manipulation & cleaning
 
 - `lets-plot` – Data Visualization
 
@@ -80,7 +80,7 @@ Through this project, I demonstrated proficiency in:
 
 
 #### Tools Mastered
-- Python (Pandas, NumPy, Lets-plot)
+- Python (Pandas, Janitor, Lets-plot)
 - Jupyter Notebook
  
 
@@ -92,7 +92,7 @@ py -m python --version
 
 2. **Required Libraries**
 ```windows cmd
-py -m pip install pandas numpy lets-plot
+py -m pip install pandas janitor lets-plot
 ```
 
 #### Step-by-Step Instructions
